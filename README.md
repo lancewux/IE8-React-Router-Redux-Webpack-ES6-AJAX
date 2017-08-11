@@ -1,4 +1,4 @@
-<h1 align="center">兼容IE8的React+Router+Redux+Webpack+ES6+AJAX全套解决方案</h1>
+<h2 align="center">兼容IE8的React+Router+Redux+Webpack+ES6+AJAX全套解决方案</h2>
 
 Angular 1.x版本是个比较旧的东西了，比如依赖注入、自己独特的模块化，这些东西在ES6下已经很好地被解决了。AngularJS 1.3抛弃了对IE8的支持。Angular的2.0几乎是一个推翻重做的框架。
 
